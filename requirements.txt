@@ -6,3 +6,5 @@ pep8-naming==0.13.2
 
 Scrapy~=2.12.0
 itemadapter~=0.11.0
+selenium~=4.28.1
+Twisted~=24.11.0
